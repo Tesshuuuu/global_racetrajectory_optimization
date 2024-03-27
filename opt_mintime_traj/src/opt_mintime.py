@@ -3,7 +3,8 @@ import sys
 import time
 import numpy as np
 import casadi as ca
-from global_racetrajectory_optimization import opt_mintime_traj
+# from global_racetrajectory_optimization 
+import opt_mintime_traj
 import trajectory_planning_helpers as tph
 
 
